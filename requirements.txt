@@ -1,0 +1,16 @@
+# requirements.txt
+
+# PyQt5 for the graphical user interface
+PyQt5==5.15.4
+
+# Python Imaging Library (PIL) for image processing
+Pillow==8.2.0
+
+# rembg for image background removal
+rembg==1.0.15
+
+# requests for making HTTP requests to fetch images
+requests==2.25.1
+
+# openai for working with the OpenAI API (if used)
+openai==0.27.0
